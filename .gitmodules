@@ -1,3 +1,6 @@
 [submodule "openfridge_frontend"]
 	path = openfridge_frontend
 	url = https://github.com/nxzas8ca/openfridge_frontend
+[submodule "openfridge_backend"]
+	path = openfridge_backend
+	url = https://github.com/NXZAS8CA/openfridge_backend
