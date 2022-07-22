@@ -1,0 +1,3 @@
+[submodule "openfridge_frontend"]
+	path = openfridge_frontend
+	url = https://github.com/nxzas8ca/openfridge_frontend
